@@ -1,5 +1,7 @@
-
 /* Builder Pattern */
+//when we need to create object with many interlinking parts and many optional and required parts 
+// in one object
+
 
 //way of dyanmically building of object with required properties, methods //way of generating
 
